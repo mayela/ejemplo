@@ -1,0 +1,2 @@
+nombre, primer apellido, segundo appelido, edad, color favorito
+Maricela, Sanchez, Miranda, 29, Negro
